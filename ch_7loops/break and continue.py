@@ -4,6 +4,12 @@ for i in range(100):
         break
     print(i)
 
+# ***
+for i in range(200):
+    if(i==101):
+        break
+    print(i)    
+
 #**
 for i in range (51):
     if(i==26):
@@ -22,7 +28,7 @@ for i in range(100):
 
 
 i= 0
-while(i<30):
+while(i<31):
     print(i)
     i += 1
 
